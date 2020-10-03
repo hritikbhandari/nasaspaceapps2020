@@ -3,10 +3,17 @@
 Steps to ensure while uploading your project:
 
 - Create the main directory with your team name inside your location's directory
+    - [Delhi](Delhi)
+    - [Noida](Noida)
+    - [Gurugram](Gurugram)
+    - [Jodhpur](Jodhpur)
+
 - Inside this main directory should be 3 things:
     - Source Code and/or Link to hosted implementation
     - README.md file (Format can be copied from README-Team.md file)
     - Presentation (Powerpoint or Google Slides) or Video
+
+[How to create a Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
 
 **NOTE** - Use Github Desktop if using Windows to upload the files
 
@@ -20,7 +27,7 @@ Steps to ensure while uploading your project:
 - Congratulations, you have installed Jupyter Notebook!
 - You can start the notebook server from the command line (using Terminal on Mac/Linux, Command Prompt on Windows) by running - jupyter notebook
 
-### Import the dataset and Load the dataset
+### Importing and Loading the dataset
 
 import pandas as pd
 
