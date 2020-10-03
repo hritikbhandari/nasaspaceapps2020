@@ -2,7 +2,7 @@
 
 Steps to ensure while uploading your project:
 
-- Create the main directory with your team name inside your location's directory
+- Create the main directory with your team name
 - Inside this main directory should be 3 things:
     - Source Code and/or Link to hosted implementation
     - README.md file (Format can be copied from README-Team.md file)
