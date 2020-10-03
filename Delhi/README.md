@@ -1,4 +1,4 @@
-# NASA Space Apps 2020 by Hacker's Tribe Foundation
+# NASA Space Apps 2020 by Hacker's Tribe Foundation - Delhi
 
 Steps to ensure while uploading your project:
 
@@ -7,6 +7,8 @@ Steps to ensure while uploading your project:
     - Source Code and/or Link to hosted implementation
     - README.md file (Format can be copied from README-Team.md file)
     - Presentation (Powerpoint or Google Slides) or Video
+
+[How to create a Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
 
 **NOTE** - Use Github Desktop if using Windows to upload the files
 
